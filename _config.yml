@@ -1,7 +1,7 @@
 name: Salon Onze
 favicon: null
-layout_spectrum: 0.7044693778734654
-typography_spectrum: 0.7952620121650398
+layout_spectrum: 0.8117927676066756
+typography_spectrum: 0.7814538297243416
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9379655972588807
-  lightness: 0.5239468670915812
-  saturation: 0.23614615900442004
-  rhythmicContrast: 0.2240437539294362
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6322952504269779
+  lightness: 0.1206930223852396
+  saturation: 0.394150365376845
+  rhythmicContrast: 0.33258064300753176
 purpose: []
